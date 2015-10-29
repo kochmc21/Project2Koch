@@ -3,7 +3,7 @@ package model;
 import java.util.List;
 
 /**
- * @author John Phillips
+ * @author Matt Koch
  * @version 20151009
  *
  */
