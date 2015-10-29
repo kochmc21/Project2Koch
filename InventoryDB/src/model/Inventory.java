@@ -3,7 +3,7 @@ package model;
 /**
  * The Employee class represents a single employee.
  * 
- * @author John Phillips
+ * @author Matt Koch
  * @version 20151015
  *
  */
